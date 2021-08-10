@@ -1,2 +1,1 @@
-# Tindogwebdesgin
-a starting web design for Tindog
+TinDog Website Design Files
